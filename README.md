@@ -13,3 +13,8 @@ C Programming language is a procedural and general-purpose language that provide
 * <stdio.h>
 * <stdlib.h>
 * <windows.h>
+
+  
+## Prerequisite
+* Turbo C
+  
